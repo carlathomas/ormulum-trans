@@ -1,4 +1,4 @@
 ormulum-trans
 =============
 
-Repository for translations of the Ormulum texts
+Repository for my translations of the Ormulum texts. 
